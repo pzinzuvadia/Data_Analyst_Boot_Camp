@@ -8,7 +8,6 @@ This bootcamp covers everything from basic data analysis concepts to advanced te
 
 ## Resources
 - **Course Link**: [Complete Data Analyst Bootcamp](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/)
-- **Author**: Krish Naik
 
 ## Credits
 All the materials and concepts in this repository are derived from the Udemy course **Complete Data Analyst Bootcamp: From Basics to Advanced** by **Krish Naik**. Huge thanks to him for creating this comprehensive and informative course.
